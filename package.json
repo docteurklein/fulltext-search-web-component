@@ -1,0 +1,15 @@
+{
+  "name": "lunr-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hybrids": "^4.0.2",
+    "lunr": "^2.3.6"
+  }
+}
